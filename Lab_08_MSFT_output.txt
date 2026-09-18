@@ -1,0 +1,10 @@
+Target: Microsoft (MSFT)
+Inputs: USD/share; September 10, 2026 closes / latest annual reported GAAP diluted EPS public by that date.
+Oracle (ORCL) P/E: 26.233276×
+Alphabet Class A (GOOGL) P/E: 30.739372×
+Target observed P/E (comparison only): 27.433983×
+Peer median P/E: 28.486324×
+Peer-implied range: $470.89–$551.77
+Median-implied price: $511.33
+Remove Oracle (ORCL): remaining median-implied $551.77; change +40.44 dollars.
+Remove Alphabet Class A (GOOGL): remaining median-implied $470.89; change -40.44 dollars.
