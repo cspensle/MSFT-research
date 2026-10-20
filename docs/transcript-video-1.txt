@@ -1,0 +1,11 @@
+Hi, I'm Colin Spensley, and this is my Project 1 analysis of Microsoft for an investment committee. In Edition A, my initial recommendation was to watch or defer Microsoft. It is a strong company. However, my central question was whether its AI and cloud growth would generate enough cash flow after the investments needed to support that growth. At that stage, I had a research plan, but I had not yet done a valuation or verified market comparison.
+
+I created Project 1 Edition B, where I evolved my research. In Edition B, I kept the watch/defer recommendation, but I added evidence to test it. I used a five-year forecast to build a free cash flow to the firm valuation. I also looked at free cash flow to equity, an earlier starting-cash-flow DCF, and peer comparisons. The integrated FCFF model gave a base estimate of $238.17 per share and a downside-to-upside range of $187.75 to $290.97.
+
+The saved September 28 stock price was $509.22, which is a large difference. One limitation is that the WACC input I used was observed on September 10, while the stock price I observed was on September 28. Market conditions can change between those dates and affect the comparison.
+
+I also wanted to test whether what AI was giving me was correct. I checked a consequential accounting choice against Microsoft's filing and my earlier DCF. New finance-lease additions are treated as investment in FCFF, and the lease liability is included as debt when moving from enterprise value to equity value. I accepted that treatment with a qualification: the model adds back stock compensation but holds the diluted share count constant, which simplifies future dilution.
+
+I checked that the valuation moves in the expected direction. A higher WACC lowers value, and higher terminal growth raises it within valid bounds. When terminal growth equals WACC, the model rejects the calculation because the terminal-value formula would divide by zero.
+
+My conclusion in Edition B is that my recommendation did not necessarily change, but now I have evidence for it. The key unresolved issue remains whether Microsoft's infrastructure spending will produce durable additional free cash flow. Given that uncertainty and the valuation gap, I would keep Microsoft on watch rather than buy a position.

@@ -1,0 +1,29 @@
+FCFF Year 1: 108.0000
+FCFF Year 2: 114.4800
+FCFF Year 3: 120.2040
+FCFF Year 4: 125.0122
+FCFF Year 5: 128.7625
+PV of explicit FCFF: 448.4408
+Terminal value, Year 5: 1894.6486
+PV of terminal value: 1176.4277
+Enterprise value: 1624.8685
+Equity value: 1374.8685
+Value per diluted share: 27.4974
+PV of TV / enterprise value: 0.7240
+
+Sensitivity grid — TRAINING — USD/share
+    WACC / g        2.00%        3.00%        4.00%
+     9.0000%        28.60        32.94        39.02
+    10.0000%        24.36        27.50        31.69
+    11.0000%        21.06        23.41        26.44
+
+Reverse DCF — TRAINING
+Target price: $30.0000; Hypothetical training target; no market timestamp
+Solved variable: uniform additive shift to all five explicit growth rates.
+Held fixed: starting FCFF=100.0000; WACC=10.00000000%; terminal growth=3.0000%; cash=50.0000; debt=300.0000; diluted shares=50.0000; five years; annual end-of-year timing.
+Original growth path: 8.0000%, 6.0000%, 5.0000%, 4.0000%, 3.0000%
+Shift bracket: -5.00 to +10.00 percentage points
+Solved shift: +1.777948 percentage points
+Implied growth path: 9.777948%, 7.777948%, 6.777948%, 5.777948%, 4.777948%
+Repriced value per share: $30.000000
+A conditional price-consistent scenario, not proof of mispricing.

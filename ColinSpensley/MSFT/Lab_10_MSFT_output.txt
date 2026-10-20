@@ -1,0 +1,49 @@
+MICROSOFT PRO-FORMA — USD millions except per share
+                                      FY2027E       FY2028E       FY2029E       FY2030E       FY2031E
+
+INCOME STATEMENT
+Revenue                             381,614.8     431,224.8     482,971.8     536,098.6     589,708.5
+Gross profit                        258,734.9     292,801.6     328,903.8     366,155.4     403,950.3
+Research & development               41,214.4      46,141.1      51,195.0      56,290.4      61,329.7
+Sales, general & admin.              39,687.9      43,984.9      48,297.2      52,537.7      57,201.7
+Operating income                    177,832.5     202,675.6     229,411.6     257,327.4     285,418.9
+Income taxes                         34,499.5      39,319.1      44,505.8      49,921.5      55,371.3
+Net income                          143,333.0     163,356.6     184,905.7     207,405.8     230,047.6
+
+BALANCE SHEET
+Cash                                 32,215.2      70,250.8     140,236.0     241,477.9     372,476.2
+Short-term investments               55,908.0      55,908.0      55,908.0      55,908.0      55,908.0
+Accounts receivable                  93,007.4     105,098.4     117,710.2     130,658.3     143,724.1
+Inventory                             1,613.8       1,817.9       2,023.4       2,231.8       2,439.5
+PP&E, net                           425,698.4     532,479.0     629,395.3     717,097.5     797,127.1
+Other assets                        286,184.0     286,184.0     286,184.0     286,184.0     286,184.0
+Accounts payable                     48,997.7      55,195.4      61,433.7      67,763.9      74,070.0
+Borrowings                           36,294.0      32,294.0      28,294.0      24,294.0      20,294.0
+Finance lease liability              93,264.3     121,601.1     151,521.0     181,945.0     212,847.7
+Other liabilities                   166,685.0     166,685.0     166,685.0     166,685.0     166,685.0
+Equity                              549,385.8     675,962.6     823,523.1     992,869.7   1,183,962.2
+
+CASH FLOW / FCFE
+Net income                          143,333.0     163,356.6     184,905.7     207,405.8     230,047.6
+Depreciation                         52,377.6      71,219.3      89,083.7     105,297.8     119,970.4
+Stock compensation                   14,265.8      16,120.3      18,054.7      20,040.8      22,044.8
+Cash capital spending               135,000.0     145,000.0     150,000.0     155,000.0     160,000.0
+Finance lease additions              30,000.0      33,000.0      36,000.0      38,000.0      40,000.0
+Change in operating assets           12,348.2      12,295.1      12,817.3      13,156.6      13,273.5
+Change in operating liab.             6,581.7       6,197.7       6,238.3       6,330.2       6,306.1
+Net borrowing                        22,670.3      24,336.8      25,919.9      26,423.9      26,902.8
+FCFE                                 61,880.2      90,935.7     125,385.2     159,341.9     191,998.2
+Dividends                            28,600.0      30,900.0      33,400.0      36,100.0      39,000.0
+Share repurchases                    22,000.0      22,000.0      22,000.0      22,000.0      22,000.0
+
+CHECK BLOCK
+Assets - liabilities - equity             0.0           0.0           0.0           0.0           0.0
+Cash above minimum                   22,215.2      60,250.8     130,236.0     231,477.9     362,476.2
+Status: PASS — every balance gap is within +/- $0.1 million; cash floor passes.
+
+FCFE VALUATION
+PV of explicit FCFE: $448,451.5 million
+PV of terminal value: $1,635,407.9 million
+Equity value: $2,083,859.5 million
+Share of value after FY2031: 78.5%
+Value per diluted share: $279.60

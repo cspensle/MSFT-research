@@ -1,0 +1,49 @@
+MICROSOFT PROJECT 1 WORKBENCH - BASE CASE
+Market reference: $509.22; 2026-09-28 regular-session close
+Pro-forma FCFF value/share: $238.17
+Pro-forma FCFE cross-check: $279.60
+Enterprise value: $1,808,949.7m
+Equity value: $1,775,104.7m
+Terminal share of enterprise value: 80.3%
+Forecast FCFF: $39,209.9m, $66,598.9m, $99,465.2m, $132,918.0m, $165,095.5m
+
+VALIDATION
+PASS - Balance sheet articulation: maximum gap $0.0000m
+PASS - Cash-flow tie: maximum gap $0.0000m
+PASS - Minimum cash: lowest forecast cash $32,215.2m; floor $10,000.0m
+PASS - Terminal convention: terminal growth 3.00%; WACC 10.20%
+PASS - Diluted shares: FY2026 weighted-average diluted shares 7,453.0m
+
+CAUSAL CASES
+Downside: $187.75/share; FY2031 FCFF $133,400.0m
+Base: $238.17/share; FY2031 FCFF $165,095.5m
+Upside: $290.97/share; FY2031 FCFF $198,549.3m
+
+WACC-TERMINAL-GROWTH GRID - VALUE/SHARE
+                 g=2.00%   g=3.00%   g=4.00%
+WACC 9.202614%     $246.82    $281.69    $329.96
+WACC 10.202614%    $212.75    $238.17    $271.79
+WACC 11.202614%    $186.19    $205.38    $229.90
+
+LOCKED CHANGED-INPUT TEST - 2026-10-19 13:28:32 EDT
+FY2030 cash capex: $155,000.0m -> $125,000.0m
+FY2031 cash capex: $160,000.0m -> $120,000.0m
+All other assumptions held constant.
+Base value/share: $238.17
+Changed value/share: $285.08
+Change: $46.91 (19.70%)
+Base FCFF FY2027-FY2031: $39,209.9m, $66,598.9m, $99,465.2m, $132,918.0m, $165,095.5m
+Changed FCFF FY2027-FY2031: $39,209.9m, $66,598.9m, $99,465.2m, $162,918.0m, $200,076.5m
+Changed enterprise value: $2,158,576.7m
+Changed equity value: $2,124,731.7m
+Changed terminal share: 81.5%
+Saved market reference: $509.22
+Validation: PASS
+
+QUALIFIED COMPARABLE-COMPANY ENTERPRISE-VALUE CROSS-CHECK
+Comparison date: September 10, 2026
+MSFT observed EV/revenue: 11.121299x
+ORCL observed EV/revenue: 8.177936x
+MSFT at ORCL EV/revenue: $360.90/share
+Qualification: one-peer reference; growth, margins, business mix, capital
+intensity, preferred financing, and fiscal-year timing differ.

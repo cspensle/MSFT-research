@@ -1,0 +1,31 @@
+FCFF Year 1: 52487.1881
+FCFF Year 2: 58785.6507
+FCFF Year 3: 64664.2157
+FCFF Year 4: 69837.3530
+FCFF Year 5: 74027.5942
+PV of explicit FCFF: 237242.6384
+Terminal value, Year 5: 1058621.5164
+PV of terminal value: 651300.2360
+Enterprise value: 888542.8744
+Equity value: 854697.8744
+Value per diluted share: 114.6784
+PV of TV / enterprise value: 0.7330
+
+Sensitivity grid — MSFT — analyst estimates; see Lab_06_MSFT.md — USD/share
+    WACC / g        2.00%        3.00%        4.00%
+     9.2026%       118.74       134.38       156.02
+    10.2026%       103.28       114.68       129.75
+    11.2026%        91.19        99.79       110.79
+
+Reverse DCF — MSFT — analyst estimates; see Lab_06_MSFT.md
+Target price: $492.4400; 2026-09-10 16:00 EDT, regular-session close
+Solved variable: uniform additive shift to all five explicit growth rates.
+Held fixed: starting FCFF=45641.0331; WACC=10.20261404%; terminal growth=3.0000%; cash=73043.0000; debt=106888.0000; diluted shares=7453.0000; five years; annual end-of-year timing.
+Original growth path: 15.0000%, 12.0000%, 10.0000%, 8.0000%, 6.0000%
+Shift bracket: -5.00 to +10.00 percentage points
+No solution in that bracket.
+Shift bracket: -5.00 to +100.00 percentage points
+Solved shift: +39.898609 percentage points
+Implied growth path: 54.898609%, 51.898609%, 49.898609%, 47.898609%, 45.898609%
+Repriced value per share: $492.440000
+A conditional price-consistent scenario, not proof of mispricing.

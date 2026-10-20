@@ -1,0 +1,28 @@
+MICROSOFT ONE-AT-A-TIME SENSITIVITY
+Every scenario starts from a fresh deep copy of the base inputs.
+Only the named independent input changes; linked statements recalculate.
+
+Driver / scenario                         FY2031 operating income       FY2031 FCFE     Value/share    Check
+Revenue growth: -2.0 pp each year           $       260,865.8m  $       172,013.7m  $       252.09    PASS
+  actual inputs (%): 0.1300, 0.1100, 0.1000, 0.0900, 0.0800
+  change from base: operating income -24,553.1m; FCFE -19,984.6m; value/share -27.51; max balance gap 0.0000m
+Revenue growth: base                        $       285,418.9m  $       191,998.2m  $       279.60    PASS
+Revenue growth: +2.0 pp each year           $       311,786.9m  $       213,373.3m  $       308.92    PASS
+  actual inputs (%): 0.1700, 0.1500, 0.1400, 0.1300, 0.1200
+  change from base: operating income +26,367.9m; FCFE +21,375.1m; value/share +29.32; max balance gap 0.0000m
+Cash capital spending: -$20,000m each year  $       285,418.9m  $       201,614.0m  $       298.07    PASS
+  actual inputs (USDm): 115000.0000, 125000.0000, 130000.0000, 135000.0000, 140000.0000
+  change from base: operating income +0.0m; FCFE +9,615.8m; value/share +18.47; max balance gap 0.0000m
+Cash capital spending: base                 $       285,418.9m  $       191,998.2m  $       279.60    PASS
+Cash capital spending: +$20,000m each year  $       285,418.9m  $       182,382.4m  $       261.13    PASS
+  actual inputs (USDm): 155000.0000, 165000.0000, 170000.0000, 175000.0000, 180000.0000
+  change from base: operating income +0.0m; FCFE -9,615.8m; value/share -18.47; max balance gap 0.0000m
+
+OUTPUT SPANS (maximum - minimum over lower/base/higher)
+Revenue growth: operating income $50,921.1m; FCFE $41,359.6m; value/share $56.82
+Cash capital spending: operating income $0.0m; FCFE $19,231.5m; value/share $36.94
+
+RESTORED-BASE CHECK
+Opening base:  FY2031 operating income $285,418.9m; FCFE $191,998.2m; value/share $279.60
+Restored base: FY2031 operating income $285,418.9m; FCFE $191,998.2m; value/share $279.60
+Status: PASS — exact match; all scenario accounting checks pass.
